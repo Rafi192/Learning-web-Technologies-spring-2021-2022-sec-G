@@ -1,0 +1,19 @@
+<html>
+	<head>
+		Webtech
+		<body>
+			<table  style="width: 100%" >
+				<tr colspan >
+					<td>
+						<h2 align ="Center "> First HTML site</h2>
+					</td>
+				</tr >
+				<tr>
+					<td>
+						
+					</td>
+				</tr>
+			</table>
+		</body>
+	</head>
+</html>
